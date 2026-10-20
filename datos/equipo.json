@@ -1,0 +1,14 @@
+{
+  "proyecto": {
+    "nombre": "Proyecto del Grupo 67",
+    "descripcion": "Página del equipo construida en GitHub con ramas, Pull Requests y revisión de código.",
+    "version": "1.0.0"
+  },
+  "integrantes": [
+    { "nombre": "Guillermo León", "rol": "Líder", "github": "Guillo1452" },
+    { "nombre": "Javier Salazar", "rol": "Frontend", "github": "JavierSalazarFuentes" },
+    { "nombre": "Camilo Villada", "rol": "Backend", "github": "cajoviga-hub" },
+    { "nombre": "David Riveros", "rol": "Tester", "github": "David-Riveros" },
+    { "nombre": "Santiago Peláez", "rol": "Documentador", "github": "Sant1580" }
+  ]
+}
